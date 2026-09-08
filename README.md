@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-hello there  
-manas kumar here
+my name is manas kumar
