@@ -1,6 +1,3 @@
 <<<<<<< HEAD
 hello there  
-=======
-namaste! Manas here
-denver
->>>>>>> test
+manas kumar here
